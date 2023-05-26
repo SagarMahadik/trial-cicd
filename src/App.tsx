@@ -18,6 +18,7 @@ const App: React.FC = () => {
 			<h1>Hot fix after UI reavamp</h1>
 
 			<h1>Fancy features to be added</h1>
+			<h1>RTK state level chages</h1>
 		</>
 	);
 };
