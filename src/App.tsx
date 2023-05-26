@@ -19,6 +19,7 @@ const App: React.FC = () => {
 
 			<h1>Fancy features to be added</h1>
 			<h1>RTK state level chages</h1>
+			<h2>React query changes - Ketan</h2>
 		</>
 	);
 };
