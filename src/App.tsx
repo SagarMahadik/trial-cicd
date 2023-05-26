@@ -7,6 +7,7 @@ function App() {
 	return (
 		<>
 			<p>Hello world</p>
+			<p>changes to the app</p>
 		</>
 	);
 }
