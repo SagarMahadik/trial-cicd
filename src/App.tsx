@@ -12,6 +12,7 @@ const App: React.FC = () => {
 			<div>Add a button normal release</div>
 			<div>Add a card normal release</div>
 			<div>Changes fixed in card</div>
+			<h1>Hot fix after UI reavamp</h1>
 		</>
 	);
 };
