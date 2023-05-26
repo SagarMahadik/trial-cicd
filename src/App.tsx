@@ -11,6 +11,7 @@ const App: React.FC = () => {
 			<p>Changes after the hotfix</p>
 			<div>Add a button normal release</div>
 			<div>Add a card normal release</div>
+			<div>Changes fixed in card</div>
 		</>
 	);
 };
