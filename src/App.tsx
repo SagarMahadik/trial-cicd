@@ -15,7 +15,9 @@ const App: React.FC = () => {
 			<p>Change after 1.2.0</p>
 			<h1>changes to the react query</h1>
 			<h1>Ui revamp code</h1>
-      <h1>Hot fix after UI reavamp</h1>
+			<h1>Hot fix after UI reavamp</h1>
+
+			<h1>Fancy features to be added</h1>
 		</>
 	);
 };
