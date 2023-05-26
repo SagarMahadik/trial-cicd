@@ -10,7 +10,7 @@ function App() {
 
 			<p>changes to the app</p>
 			<p>This fixes issue in prod</p>
-
+			<div>Change introdcued in hotfix</div>
 		</>
 	);
 }
