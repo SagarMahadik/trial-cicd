@@ -13,6 +13,7 @@ const App: React.FC = () => {
 			<div>Add a card normal release</div>
 			<div>Changes fixed in card</div>
 			<p>Change after 1.2.0</p>
+			<h1>changes to the react query</h1>
 		</>
 	);
 };
