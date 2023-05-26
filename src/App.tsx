@@ -10,6 +10,7 @@ const App: React.FC = () => {
 			<div>Change introdcued in hotfix</div>
 			<p>Changes after the hotfix</p>
 			<div>Add a button normal release</div>
+			<div>Add a card normal release</div>
 		</>
 	);
 };
