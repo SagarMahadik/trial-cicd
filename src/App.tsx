@@ -1,18 +1,15 @@
-import { useState } from "react";
+import React from "react";
 import "./App.css";
 
-function App() {
-	const [count, setCount] = useState(0);
-
+const App: React.FC = () => {
 	return (
 		<>
 			<p>Hello world</p>
-
 			<p>changes to the app</p>
 			<p>This fixes issue in prod</p>
-
+			<p>Changes after the hotfix</p>
 		</>
 	);
-}
+};
 
 export default App;
