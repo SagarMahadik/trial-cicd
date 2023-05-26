@@ -14,6 +14,7 @@ const App: React.FC = () => {
 			<div>Changes fixed in card</div>
 			<p>Change after 1.2.0</p>
 			<h1>changes to the react query</h1>
+			<h1>Ui revamp code</h1>
 		</>
 	);
 };
