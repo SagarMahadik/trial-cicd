@@ -9,6 +9,7 @@ const App: React.FC = () => {
 			<p>This fixes issue in prod</p>
 			<div>Change introdcued in hotfix</div>
 			<p>Changes after the hotfix</p>
+			<div>Add a button normal release</div>
 		</>
 	);
 };
