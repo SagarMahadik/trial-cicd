@@ -13,6 +13,7 @@ const App: React.FC = () => {
 			<div>Add a card normal release</div>
 			<div>Changes fixed in card</div>
 			<h1>Hot fix after UI reavamp</h1>
+			<h1>Bug found and bug resolved</h1>
 		</>
 	);
 };
